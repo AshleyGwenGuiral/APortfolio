@@ -1,7 +1,7 @@
 
     function downloadResume() {
       // Replace with your actual resume path
-      const resumeUrl = "../IMAGES/RESUME.pdf";
+      const resumeUrl = "IMAGES/RESUME.pdf";
       const a = document.createElement('a');
       a.href = resumeUrl;
       a.download = "RESUME.pdf";
