@@ -38,6 +38,7 @@
         font-weight: bold;
         border-radius: 8px;
         transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
+        gap: 5px;
       }
     
       header a:hover {
@@ -85,7 +86,7 @@
       transition: transform 0.3s ease;
     }
 
-    .project:hover {
+    project: hover {
       transform: scale(1.01);
     }
 
