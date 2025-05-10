@@ -27,6 +27,7 @@
       border-radius: 12px;
       backdrop-filter: blur(6px);
       margin-bottom: 30px;
+       gap:1rem;
     }
     header a {
         display: inline-block;
