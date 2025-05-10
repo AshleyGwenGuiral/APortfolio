@@ -24,7 +24,7 @@
     header {
       display: flex;
       justify-content: space-around;
-      padding: 5px 0;
+      padding: 15px 0;
       background: rgba(255, 255, 255, 0.15);
       border-radius: 12px;
       backdrop-filter: blur(6px);
